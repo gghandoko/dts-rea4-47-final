@@ -1,6 +1,6 @@
 # DTS4A-47-FINAL REA4A-1523649113101622-AGUNG HANDOKO-A.IKBAL
 
- # 1. LINK GIF FITUR link gifcat => https://gfycat.com/halfcreamycowbird
+ # 1. LINK GIF FITUR link gifcat => https://gfycat.com/wealthywhoppinghuman
 
  # 2.LINK LIVE APP => https://lucky-taiyaki-522c22.netlify.app/
 
