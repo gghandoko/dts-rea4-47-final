@@ -129,7 +129,7 @@ const DetailPage = () => {
                             
                             
                            
-                        <Button variant="outlined" onClick={handleOpen} >WATCH </Button>
+                        <Button variant="outlined" onClick={handleOpen} >WATCH TRAILER </Button>
                             
                 </Box>
                         {/* <a href={`https://www.youtube.com/watch?v=${videoskey}`}><button>Watch Trailer</button></a> */}

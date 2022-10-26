@@ -1,5 +1,5 @@
-import { Box, Button, Grid, Paper, TextField, Typography } from "@mui/material";
-import { margin, maxHeight, maxWidth, width } from "@mui/system";
+import { Box, Button, TextField, Typography } from "@mui/material";
+// import { margin, maxHeight, maxWidth, width } from "@mui/system";
 // import { makeSyles } from "@mui/styles";
 // import makeStyles from '@mui/styles/makeStyles';
 
@@ -121,6 +121,7 @@ const LoginUser = () => {
                             value={password}
                             onChange={fnFormPassword}
                             fullWidth
+                            type="password"
                             
                         />
                     <Button

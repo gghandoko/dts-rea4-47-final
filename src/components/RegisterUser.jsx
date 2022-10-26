@@ -83,6 +83,7 @@ const Register = () => {
                             onChange={fnFormPassword}
                             required
                             fullWidth
+                            type="password"
 
                         />
                         <Button
